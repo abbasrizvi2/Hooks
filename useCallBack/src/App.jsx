@@ -27,7 +27,7 @@ function App() {
 
 // *** React component function  render on 2 condition either state has been changed or prop has been modified
 
-//** Problem --> while clicking on Imcrement button our increment prop received by Child compo doesn't change
+//** Problem --> while clicking on Increment button our increment prop received by Child compo doesn't change
 //* so why it has been rendering */
 // **Answer --> React says if parent compo render so it will also render child compo no matters what
 
